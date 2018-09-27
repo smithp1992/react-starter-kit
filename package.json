@@ -1,0 +1,40 @@
+{
+  "name": "reactstarterkit",
+  "version": "0.0.1",
+  "description": "React with Redux starter kit to quickly start applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build main.js"
+  },
+  "dependencies": {
+    "node-sass": "^4.9.3",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithp1992/react-starter-kit.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "starter-kit",
+    "parcel"
+  ],
+  "author": "Philip Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smithp1992/react-starter-kit/issues"
+  },
+  "homepage": "https://github.com/smithp1992/react-starter-kit#readme"
+}
