@@ -1,5 +1,5 @@
 # React Starter Kit  
-This application is the bare minimum for creating a React web application.  
+This application has the bare minimum for creating a React with Redux web application.  
 **What it uses:**  
 - **React:** Includes React, React-Dom and Prop-Types  
 - **Redux:** All tools needed to create redux components as well as redux-thunk middleware for synchronous actions and
